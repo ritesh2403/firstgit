@@ -2,7 +2,7 @@ class P1
 {
  public static void main(String[] args)
   {
-    int a,b,sum,mul;
+    int a,b,sum,mul,div;
     a=10;
     b=20
     sum=a+b;
@@ -11,6 +11,9 @@ class P1
 
    mul=a*b;
    System.out.println("mul");
+
+   div=b/a;
+   System.out.println("div");
 
   }
 }
