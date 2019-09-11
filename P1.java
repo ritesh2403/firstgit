@@ -4,7 +4,7 @@ class P1
   {
     int a,b,sum;
     a=10;
-    b=20
+    b=20;
     sum=a+b;
     System.out.println("sum is:"+sum); 
   }
